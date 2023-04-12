@@ -46,4 +46,4 @@ app.post('/', async (req, res) => {
   }
 })
 
-app.listen(5000, () => console.log('AI server started on https://coddey.vercel.app/'))
+app.listen(5000, () => console.log('AI server started on https://codey-edbn.onrender.com'))
